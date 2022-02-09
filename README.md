@@ -1,2 +1,2 @@
 # odin-recipes
-A website containing all my favorite recipes
+A draft website containing three of my favorite recipes
